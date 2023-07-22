@@ -1,0 +1,38 @@
+header p{
+    color: #e9e9e9;
+    font-weight: 600;
+}
+
+h1{
+    font-size: 63px;
+    color: #ffffff;
+    padding: 15px;
+    color: aliceblue;
+    text-align: center;
+}
+h2{
+    font-size: 24px;
+    text-transform: uppercase;
+    color:#efecec;
+    font-weight: 600px;
+}
+
+footer{
+    color: #e9e9e9;
+}
+
+#conhecaPacotes{
+    color: #0a0a0a;
+}
+.navbar-brand{
+    color: #e9e9e9;
+}
+.nav-link, .nav-linkdropdown-toggle{
+    color: #e9e9e9;
+}
+
+.carousel-caption h3{
+    font-size: 50px;
+    color: #efecec;
+    text-shadow: #454444;
+}
